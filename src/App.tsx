@@ -264,6 +264,51 @@ export default function DumbQuestionsNewsSite() {
         'The answers revealed surprising confidence from both sides and raised new questions about water pressure, soap strategy, and personal trust.',
         'The investigation will continue after everyone dries off.'
       ]
+    },
+    {
+      id: 17,
+      category: 'Food',
+      headline: 'Can I Have More Water?',
+      summary:
+        'A routine restaurant request unexpectedly entered the public record.',
+      author: 'Hospitality Affairs Desk',
+      location: 'Restaurant Booth',
+      time: 'Updated 12 minutes ago',
+      body: [
+        'Dining staff were approached with a direct but surprisingly memorable request asking whether additional water could be provided.',
+        'Witnesses report the question itself was completely normal, though its delivery and timing elevated it to historic status.',
+        'Restaurant officials ultimately approved the refill.'
+      ]
+    },
+    {
+      id: 18,
+      category: 'Health',
+      headline: 'Is Liquor Alcohol?',
+      summary:
+        'Citizens continue searching for clarification on a classification many believed had already been settled.',
+      author: 'Substance Classification Bureau',
+      location: 'Function Table',
+      time: 'Updated 19 minutes ago',
+      body: [
+        'A classification debate erupted after one participant questioned whether liquor technically counts as alcohol.',
+        'Several attendees paused before answering, unsure whether the question was philosophical, scientific, or simply the result of exhaustion.',
+        'Authorities confirmed the discussion became significantly harder to follow as the evening progressed.'
+      ]
+    },
+    {
+      id: 19,
+      category: 'Nature',
+      headline: 'Are Bald Eagles Really Bald?',
+      summary:
+        'A wildlife-related inquiry forced the public to reconsider long-standing assumptions about America’s national bird.',
+      author: 'National Wildlife Desk',
+      location: 'Patriotic Observation Site',
+      time: 'Updated 27 minutes ago',
+      body: [
+        'Public discussion intensified after a question challenged whether bald eagles are truly bald or simply victims of misleading branding.',
+        'Bird experts clarified that the name refers to the eagle’s white-feathered head rather than actual hair loss.',
+        'The eagle itself declined to comment but maintained a serious expression throughout.'
+      ]
     }
   ]
 
